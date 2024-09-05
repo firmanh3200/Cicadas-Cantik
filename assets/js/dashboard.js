@@ -443,7 +443,7 @@
                                
                 ],
 
-                formatter: function(x) { return x + "%" },
+                formatter: function(x) { return x + "Jiwa" },
                   resize: true
             });
         }
@@ -473,7 +473,7 @@
                                
                 ],
 
-                formatter: function(x) { return x + "%" },
+                formatter: function(x) { return x + "Orang" },
                   resize: true
             });
         }
